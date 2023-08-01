@@ -8,3 +8,7 @@ AdoptaDog Daily (working title) is a pet adoption visibility application that re
 <h2> Mission Statement </h2>
 <br>
 AdoptaDog Daily is an application that provides users daily pictures and adoption information about an adoptable dog in their area. Our mission is to help homeless, neglected, shelter pets and other rescued dogs find their furever homes while also drawing attention to the rescue organizations, foster system and shelters that provide these crucial services.
+<h2> APIs </h2>
+<br>
+
+AdoptaDog Daily relies on the [Petfinder API](https://www.petfinder.com/developers/v2/docs/).
